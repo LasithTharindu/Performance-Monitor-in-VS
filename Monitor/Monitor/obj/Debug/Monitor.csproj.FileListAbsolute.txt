@@ -1,0 +1,19 @@
+E:\Esoft\C#\My Work\New folder\New folder (2)\Monitor\Monitor\bin\Debug\Monitor.exe.config
+E:\Esoft\C#\My Work\New folder\New folder (2)\Monitor\Monitor\bin\Debug\Monitor.exe
+E:\Esoft\C#\My Work\New folder\New folder (2)\Monitor\Monitor\bin\Debug\Monitor.pdb
+E:\Esoft\C#\My Work\New folder\New folder (2)\Monitor\Monitor\obj\Debug\Monitor.csprojResolveAssemblyReference.cache
+E:\Esoft\C#\My Work\New folder\New folder (2)\Monitor\Monitor\obj\Debug\Monitor.Form1.resources
+E:\Esoft\C#\My Work\New folder\New folder (2)\Monitor\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+E:\Esoft\C#\My Work\New folder\New folder (2)\Monitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.Cache
+E:\Esoft\C#\My Work\New folder\New folder (2)\Monitor\Monitor\obj\Debug\Monitor.exe
+E:\Esoft\C#\My Work\New folder\New folder (2)\Monitor\Monitor\obj\Debug\Monitor.pdb
+E:\Esoft\My New Project\Monitor\Monitor\bin\Debug\Monitor.exe.config
+E:\Esoft\My New Project\Monitor\Monitor\bin\Debug\Monitor.exe
+E:\Esoft\My New Project\Monitor\Monitor\bin\Debug\Monitor.pdb
+E:\Esoft\My New Project\Monitor\Monitor\obj\Debug\Monitor.csprojAssemblyReference.cache
+E:\Esoft\My New Project\Monitor\Monitor\obj\Debug\Monitor.Form1.resources
+E:\Esoft\My New Project\Monitor\Monitor\obj\Debug\Monitor.Properties.Resources.resources
+E:\Esoft\My New Project\Monitor\Monitor\obj\Debug\Monitor.csproj.GenerateResource.cache
+E:\Esoft\My New Project\Monitor\Monitor\obj\Debug\Monitor.csproj.CoreCompileInputs.cache
+E:\Esoft\My New Project\Monitor\Monitor\obj\Debug\Monitor.exe
+E:\Esoft\My New Project\Monitor\Monitor\obj\Debug\Monitor.pdb
